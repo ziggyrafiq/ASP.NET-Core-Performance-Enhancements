@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Ywrf2zWVkDtXEvxHzcxMKmD5vrM/KhWYx3nVSg9jIK+F45wUeqKlFswW1nzpf9OXtWPLGitEO6FQm0rZkyGDA==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\_Articles-Posts To Complete Code\\ASP.net Core\\MVC\\ASP.NET-Core-Performance-Enhancements\\ZR.CodeExampleCacheFrequentlyUsedLargeObjects\\ZR.CodeExampleCacheFrequentlyUsedLargeObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

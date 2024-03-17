@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lwA3sLVpR8nmgI+70NcZnT4TZ5YDVNdUVIJ11g+uZ0s=",
+  "Source": "ZR.CodeExampleAvoidAccessingHttpContext",
+  "BasePath": "_content/ZR.CodeExampleAvoidAccessingHttpContext",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

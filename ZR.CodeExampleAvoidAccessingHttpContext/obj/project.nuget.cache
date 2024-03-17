@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiIceiqwpXOS09RxjicdwscL67h2TBKYIhnp0mVYQ8BU3+48fIcgbV6HkE7Wd6KYms0UOuI4EWxvN03gqz8mFA==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\_Articles-Posts To Complete Code\\ASP.net Core\\MVC\\ASP.NET-Core-Performance-Enhancements\\ZR.CodeExampleAvoidAccessingHttpContext\\ZR.CodeExampleAvoidAccessingHttpContext.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
